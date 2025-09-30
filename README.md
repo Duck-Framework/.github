@@ -4,7 +4,7 @@
 
 ### A Powerful and Elegant Development Framework
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-BSD-Clause-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Duck-Framework/.github?style=social)](https://github.com/Duck-Framework/.github/stargazers)
 [![Contributors](https://img.shields.io/github/contributors/Duck-Framework/.github)](https://github.com/Duck-Framework/.github/graphs/contributors)
 
