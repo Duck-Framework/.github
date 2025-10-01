@@ -29,16 +29,16 @@ The Duck Framework is dedicated to creating elegant, powerful, and developer-fri
 
 ## 🚀 Getting Started
 
-Visit our [organization page](https://github.com/Duck-Framework) to explore our projects and repositories.
+Visit our [organization page](https://github.com/duckframework) to explore our projects and repositories.
 
 ### Quick Links
 
 - 📚 [Documentation](#) - Coming soon
-- 🐛 [Report a Bug](https://github.com/Duck-Framework/.github/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/Duck-Framework/.github/issues/new?template=feature_request.md)
+- 🐛 [Report a Bug](https://github.com/duckframework/.github/issues/new?template=bug_report.md)
+- 💡 [Request a Feature](https://github.com/duckframework/.github/issues/new?template=feature_request.md)
 - 🤝 [Contributing Guidelines](CONTRIBUTING.md)
-- 🔒 [Security Policy](SECURITY.md)
-- 📜 [Code of Conduct](CODE_OF_CONDUCT.md)
+- 🔒 [Security Policy](https://github.com/duckframework/duck/blob/main/SECURITY.md)
+- 📜 [Code of Conduct](../duck/CODE_OF_CONDUCT.md)
 
 ## 🤝 Contributing
 
