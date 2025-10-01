@@ -4,9 +4,9 @@
 
 ### A Powerful and Elegant Development Framework
 
-[![License](https://img.shields.io/badge/License-BSD-Clause-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/Duck-Framework/.github?style=social)](https://github.com/Duck-Framework/.github/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/Duck-Framework/.github)](https://github.com/Duck-Framework/.github/graphs/contributors)
+[![License](https://img.shields.io/badge/License-BSD-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/duckframework/.github?style=social)](https://github.com/duckframework/.github/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/duckframework/.github)](https://github.com/duckframework/.github/graphs/contributors)
 
 ---
 
@@ -33,24 +33,20 @@ Visit our [organization page](https://github.com/duckframework) to explore our p
 
 ### Quick Links
 
-- 📚 [Documentation](#) - Coming soon
+- 📚 [Documentation](https://duckframework.xyz/documentation)
 - 🐛 [Report a Bug](https://github.com/duckframework/.github/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/duckframework/.github/issues/new?template=feature_request.md)
-- 🤝 [Contributing Guidelines](CONTRIBUTING.md)
+- 💡 [Request a Feature](https://github.com/duckframework/.github/issues/new?template=https://github.com/duckframework/duck/blob/main/feature_request.md)
+- 🤝 [Contributing Guidelines](https://github.com/duckframework/duck/blob/main/CONTRIBUTING.md)
 - 🔒 [Security Policy](https://github.com/duckframework/duck/blob/main/SECURITY.md)
-- 📜 [Code of Conduct](../duck/CODE_OF_CONDUCT.md)
+- 📜 [Code of Conduct](https://github.com/duckframework/duck/blob/main/CODE_OF_CONDUCT.md)
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
-## 📄 License
-
-Projects under Duck Framework are generally licensed under the MIT License unless otherwise specified. See individual repositories for specific license information.
+We welcome contributions from the community! Please read our [Contributing Guidelines](https://github.com/duckframework/duck/blob/main/CONTRIBUTING.md) to get started.
 
 ## 🔒 Security
 
-Security is a top priority. Please review our [Security Policy](SECURITY.md) for information on reporting vulnerabilities.
+Security is a top priority. Please review our [Security Policy](https://github.com/duckframework/duck/blob/main/SECURITY.md) for information on reporting vulnerabilities.
 
 ## 💬 Community
 
