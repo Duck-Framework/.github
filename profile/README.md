@@ -29,7 +29,7 @@ The Duck Framework is dedicated to creating elegant, powerful, and developer-fri
 
 ## 🚀 Getting Started
 
-Visit our [repository](https://github.com/duckframework/duck) to explore what Duck does.
+Visit our [repository](https://github.com/duckframework/duck) to explore more of **Duck** capabilities.
 
 ### Quick Links
 
